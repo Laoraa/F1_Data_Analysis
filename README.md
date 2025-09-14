@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 To compile LaTeX reports (e.g. `Book_F1_2024`), make sure you have a LaTeX distribution installed that provides the `pdflatex` command:
 
-- **Linux**: TeX Live (`sudo apt install texlive-full && sudo apt install texlive-latex-extra`)
+- **Linux**: TeX Live (`sudo apt install texlive-latex-extra`)
 - **macOS**: MacTeX
 - **Windows**: MiKTeX
 
