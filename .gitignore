@@ -1,2 +1,5 @@
 *.ff1pkl
 *.sqlite
+*.aux
+*.log
+*.out
